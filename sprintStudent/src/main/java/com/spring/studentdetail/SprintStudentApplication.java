@@ -13,6 +13,7 @@ public class SprintStudentApplication implements CommandLineRunner{
 
 	public static void main(String[] args) {
 		SpringApplication.run(SprintStudentApplication.class, args);
+		
 	}
 
 	@Autowired
